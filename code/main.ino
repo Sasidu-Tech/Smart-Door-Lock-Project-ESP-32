@@ -68,7 +68,7 @@ void openDoor()
  // Slowly Open (90° -> 20°)
 for (int pos = 80; pos >= 20; pos--) {
   doorServo.write(pos);
-  delay(20);   // වැඩි කළොත් තව හෙමින් යයි
+  delay(20);   
 }
 
 delay(5000);
@@ -76,7 +76,7 @@ delay(5000);
 // Slowly Close (20° -> 90°)
 for (int pos = 20; pos <= 90; pos++) {
   doorServo.write(pos);
-  delay(20);   // වැඩි කළොත් තව හෙමින් යයි
+  delay(20);   
 }
 
   lcd.clear();

@@ -1,4 +1,10 @@
-🔐 Smart Door Lock System using ESP32
+# 🔐 Smart Door Lock System using ESP32
+
+## 🎥 Demo
+
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/gXzNTzhB)
+
+![ESP32 Wi-Fi Scanner](images/Smart%20Door%20Lock%20-01.jpg)
 
 A secure Smart Door Lock System built with ESP32, RFID RC522, 4x4 Keypad, 16x2 I2C LCD, SG90 Servo Motor, and Buzzer. The system allows authorized users to unlock the door using either a registered RFID card or a PIN code.
 
